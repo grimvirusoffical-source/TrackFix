@@ -8,13 +8,13 @@ The file you want on a Windows laptop is **TrackFix.exe**. Save it, then double-
 
 | System | Download |
 |---|---|
-| Windows 10 or 11, 64-bit | [TrackFix.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix.exe) |
-| Windows on ARM | [TrackFix-arm64.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-arm64.exe) |
-| 32-bit Windows | [TrackFix-x86.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-x86.exe) |
-| Mac (Apple silicon and Intel) | [TrackFix-mac.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-mac.zip) |
-| Linux, including Steam Deck desktop | [TrackFix-linux-x64.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-linux-x64.zip) |
-| ARM Linux | [TrackFix-linux-arm64.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-linux-arm64.zip) |
-| Chromebook, Chrome, Edge, Brave, Vivaldi | [TrackFix-chrome.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.2.0/TrackFix-chrome.zip) |
+| Windows 10 or 11, 64-bit | [TrackFix.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix.exe) |
+| Windows on ARM | [TrackFix-arm64.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-arm64.exe) |
+| 32-bit Windows | [TrackFix-x86.exe](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-x86.exe) |
+| Mac (Apple silicon and Intel) | [TrackFix-mac.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-mac.zip) |
+| Linux, including Steam Deck desktop | [TrackFix-linux-x64.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-linux-x64) |
+| ARM Linux | [TrackFix-linux-arm64.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-linux-arm64) |
+| Chromebook, Chrome, Edge, Brave, Vivaldi | [TrackFix-chrome.zip](https://github.com/grimvirusoffical-source/TrackFix/releases/download/v2.3.0/TrackFix-chrome.zip) |
 
 The same files are in this repository if you want to browse them:
 
@@ -22,8 +22,8 @@ The same files are in this repository if you want to browse them:
 - [windows-arm/TrackFix.exe](windows-arm/TrackFix.exe)
 - [windows-32/TrackFix.exe](windows-32/TrackFix.exe)
 - [mac/TrackFix-mac.zip](mac/TrackFix-mac.zip)
-- [linux/TrackFix-linux-x64.zip](linux/TrackFix-linux-x64.zip)
-- [linux-arm/TrackFix-linux-arm64.zip](linux-arm/TrackFix-linux-arm64.zip)
+- [linux/TrackFix](linux/TrackFix)
+- [linux-arm/TrackFix](linux-arm/TrackFix)
 - [chrome/TrackFix-chrome.zip](chrome/TrackFix-chrome.zip)
 - [Guide](Guide) has Practice, Apps, Install, Updates, and Support
 
