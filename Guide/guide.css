@@ -1,0 +1,56 @@
+:root {
+  color-scheme: dark;
+  --bg: #0c0d0b;
+  --surface: #161814;
+  --fg: #f3f4ef;
+  --muted: #a3a89a;
+  --primary: #d6f25c;
+  --ink: #14160c;
+  --line: #2c3026;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+}
+main {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.25rem 1rem 3rem;
+}
+h1 { font-size: 1.4rem; margin: 0; }
+h2 { font-size: 1.15rem; margin: 1.5rem 0 0.4rem; }
+p, li { line-height: 1.5; }
+.muted { color: var(--muted); }
+.brand { font-size: 0.85rem; color: var(--muted); margin: 0.2rem 0 0.9rem; }
+nav { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.8rem 0 1.2rem; }
+nav a, .btn {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--fg);
+  text-decoration: none;
+  background: var(--surface);
+}
+nav a[aria-current="page"], .btn.solid {
+  background: var(--primary);
+  color: var(--ink);
+  border-color: var(--primary);
+  font-weight: 650;
+}
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  padding: 0.9rem 1rem;
+  margin: 0.7rem 0;
+}
+code, .mono { font-family: ui-monospace, monospace; color: var(--primary); }
+table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+th, td { text-align: left; padding: 0.45rem 0.35rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-weight: 550; }
